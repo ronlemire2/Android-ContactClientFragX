@@ -1,0 +1,26 @@
+===============================================================================
+1. ContactClientFragX - Overview
+===============================================================================
+ContactClientFragX takes the ContactClientFrag application at:
+	https://github.com/ronlemire2/ContactClientFrag
+and makes it compatible with pre-3.0 versions of Android.
+
+To do this ContactClientFragX uses:
+	1) ...\android-sdk\extras\android\support\v4\android-support-v4.jar
+	2) ...\android-sdk\samples\android-14\ActionBarCompat
+from the Android setup folder.
+
+===============================================================================
+2. Presentation: same as ContactClientFrag
+===============================================================================
+3. How to use:	 same as ContactClientFrag
+===============================================================================
+4. Screenshots:	 same as ContactClientFrag
+===============================================================================
+
+===============================================================================
+5. Android Client Testing
+===============================================================================
+a) Galaxy Tab 10.1 	(Android Version 3.2 	- API 13 - HoneyComb)
+b) Galaxy Nexus device	(Android Version 4.0	- API 14 - Ice Cream Sandwich)
+c) Samsung Cricket	(Android Version 2.3.3	- API 10 - Gingerbread

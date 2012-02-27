@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, ContactClientMainActivity!</string>
+    <string name="app_name">ContactClientFragX</string>
+    
+	<string name="menu_refresh">Refresh</string>
+	<string name="menu_search">Search</string>
+	<string name="menu_share">Share</string>
+	    
+    <string name="runService">Refresh Contact List</string>
+    <string name="contactAdded">Contact added: </string>
+    <string name="contactAddedErrorMessage">Error adding Contact</string>
+    <string name="contactDeleted">Contact deleted</string>
+    <string name="contactDeletedErrorMessage">Error deleting Contact</string>
+    <string name="contactUpdated">Contact updated</string>
+    <string name="contactUpdatedErrorMessage">Error updating Contact</string>
+    <string name="button_add_contact">Add Contact</string>
+    <string name="button_update_contact">Update Contact</string>
+    <string name="button_delete_contact">Delete Contact</string>
+    <string name="menuitem_add_contact">Add Contact</string>
+    <string name="menuitem_edit_contact">Update Contact</string>
+    <string name="menuitem_delete_contact">Delete Contact</string>
+    <string name="id">ID</string>
+    <string name="firstName">FirstName</string>
+    <string name="lastName">LastName</string>
+    <string name="label_id">ID:</string>
+    <string name="label_firstName">First:</string>
+    <string name="label_lastName">Last:</string>
+    <string name="label_email">Email:</string>
+    <string name="hint_ID">ID</string>
+    <string name="hint_firstName">FirstName (required)</string>
+    <string name="hint_lastName">LastName (required)</string>
+    <string name="hint_email">Email</string>
+    <string name="invalid_id_error">Invalid ID.</string>
+    <string name="debug">Debug: </string>
+    <string name="loading">Loading...</string>
+    <string name="confirmTitle">Are You Sure?</string>
+    <string name="confirmMessage">This will permanently delete the contact</string>
+    <string name="contactId">Id</string>
+    <string name="contactFirstName">FirstName</string>
+    <string name="contactLastName">LastName</string>
+    <string name="contactEmail">Email</string>
+    <string name="titleMultipleContactUrl">MultipleContactUrl</string>
+    <string name="titleSingleContactUrl">SingleContactUrl</string>
+    <string name="promptMultipleContactUrl">Please enter your Multiple Contact Url:</string>
+    <string name="promptSingleContactUrl">Please enter your Single Contact Url:</string>
+    <string name="saveURLsButton">Save Prefs</string>
+    <string name="prefsItem">Prefs</string>
+    <string name="titlePrefs">Prefs</string>
+    <string name="errorButton">OK</string>
+    <string name="errorTitle">Required Data Missing</string>
+    <string name="errorFirstNameMessage">You must enter a first name</string>
+    <string name="errorLastNameMessage">You must enter a last name</string>
+    <string name="errorIdMessage">Contact Id is missing</string>
+    <string name="msgSetupPrefs">Please setup ContactServer URLs in Preferences Activity.</string>
+    <string name="multiple_contact_url_dialog_bundle_key">mcontact</string>
+    <string name="single_contact_url_dialog_bundle_key">scontact</string>
+    <string name="prefs_dialog_title">Preferences</string>
+    <string name="no_contact_selected">Please select a contact from the ContactList</string>
+        
+</resources>

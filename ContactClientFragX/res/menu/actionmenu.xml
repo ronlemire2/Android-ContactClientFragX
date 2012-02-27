@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+	<item android:id="@+id/addContactItem" android:orderInCategory="1"
+		android:icon="@android:drawable/ic_menu_add" android:title="@string/menuitem_add_contact"
+		android:showAsAction="ifRoom">
+	</item>
+	<item android:id="@+id/editContactItem" android:icon="@android:drawable/ic_menu_edit"
+		android:orderInCategory="2" android:title="@string/menuitem_edit_contact"
+		android:showAsAction="ifRoom">
+	</item>
+
+	<item android:id="@+id/deleteContactItem" android:icon="@android:drawable/ic_delete"
+		android:orderInCategory="3" android:title="@string/menuitem_delete_contact"
+		android:showAsAction="ifRoom">
+	</item>
+	<item android:id="@+id/prefsItem" android:orderInCategory="4"
+		android:title="@string/prefsItem" android:icon="@android:drawable/ic_menu_preferences"
+		android:showAsAction="ifRoom"></item>
+</menu>
